@@ -1,6 +1,6 @@
 Submittal Builder
 
-Overview
+Overview:
 Submittal Builder is a Python desktop application that helps quickly assemble HVAC manufacturer submittals into a single merged PDF. The app scans a shared manufacturer drawings directory, lets the user browse by type, manufacturer, and category, then select and order product PDFs before building a final submittal package. An optional title page workflow can copy a manufacturer-specific Word title page template for editing.
 
 Key features
